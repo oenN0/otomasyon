@@ -15,6 +15,7 @@ let students2 = [
         gender: "Erkek"
     },
     {   id:3,
+        photo:"https://randomuser.me/api/portraits/men/8.jpg",
         name: "Hasan",
         surname: "Kıraç",
         age: 27,
@@ -22,6 +23,7 @@ let students2 = [
     },
     {
         id:4,
+        photo:"https://randomuser.me/api/portraits/women/88.jpg",
         name: "Ayla",
         surname: "Yılmaz",
         age: 22,
@@ -29,6 +31,7 @@ let students2 = [
     },
     {
         id:5,
+        photo:"https://randomuser.me/api/portraits/women/46.jpg",
         name: "Esin",
         surname: "Girik",
         age: 22,
@@ -36,6 +39,7 @@ let students2 = [
     },
     {
         id:6,
+        photo:"https://randomuser.me/api/portraits/men/22.jpg",
         name: "Mert",
         surname: "Müldür",
         age: 25,
@@ -43,6 +47,7 @@ let students2 = [
     },
     {   
         id:7,
+        photo:"https://randomuser.me/api/portraits/men/92.jpg",
         name: "Mitsubishi",
         surname: "Kawasaki",
         age: 20,
@@ -50,6 +55,7 @@ let students2 = [
     },
     {
         id:8,
+        photo:"https://randomuser.me/api/portraits/men/72.jpg",
         name: "Kemal",
         surname: "Ermemiş",
         age: 33,
@@ -57,6 +63,7 @@ let students2 = [
     },
     {
         id:9,
+        photo:"https://randomuser.me/api/portraits/men/49.jpg",
         name: "John",
         surname: "Osimen",
         age: 25,
@@ -64,6 +71,7 @@ let students2 = [
     },
     {
         id:10,
+        photo:"https://randomuser.me/api/portraits/women/33.jpg",
         name: "Leyla",
         surname: "Toprak",
         age: 22,
@@ -71,6 +79,7 @@ let students2 = [
     },
     {
         id:11,
+        photo:"https://randomuser.me/api/portraits/men/34.jpg",
         name: "Barış",
         surname: "Özcanus",
         age: 33,
@@ -78,6 +87,7 @@ let students2 = [
     },
     {
         id:12,
+        photo:"https://randomuser.me/api/portraits/women/28.jpg",
         name: "Emel",
         surname: "Kirazoğlu",
         age: 23,
@@ -85,6 +95,7 @@ let students2 = [
     },
     {
         id:13,
+        photo:"https://randomuser.me/api/portraits/women/20.jpg",
         name: "Tuana",
         surname: "Yıldız",
         age: 19,
@@ -92,6 +103,7 @@ let students2 = [
     },
     {
         id:14,
+        photo:"https://randomuser.me/api/portraits/men/85.jpg",
         name: "Kerem",
         surname: "Karatürkoğlu",
         age: 23,
@@ -99,6 +111,7 @@ let students2 = [
     },
     {
         id:15,
+        photo:"https://randomuser.me/api/portraits/men/51.jpg",
         name: "Semih",
         surname: "Kılışdaroğlu",
         age: 20,
@@ -106,6 +119,7 @@ let students2 = [
     },
     {
         id:16,
+        photo:"https://randomuser.me/api/portraits/women/9.jpg",
         name: "Rana",
         surname: "Karakurt",
         age: 22,
@@ -113,6 +127,7 @@ let students2 = [
     },
     {
         id:17,
+        photo:"https://randomuser.me/api/portraits/women/11.jpg",
         name: "Aysu",
         surname: "Çiçek",
         age: 22,
@@ -120,6 +135,7 @@ let students2 = [
     },
     {
         id:18,
+        photo:"https://randomuser.me/api/portraits/women/47.jpg",
         name: "Gül",
         surname: "Diken",
         age: 27,
@@ -127,6 +143,7 @@ let students2 = [
     },
     {
         id:19,
+        photo:"https://randomuser.me/api/portraits/women/44.jpg",
         name: "Ayumi",
         surname: "Takashiwa",
         age: 24,
@@ -134,6 +151,7 @@ let students2 = [
     },
     {
         id:20,
+        photo:"https://randomuser.me/api/portraits/women/52.jpg",
         name: "Ayşen",
         surname: "Tatlıtuğ",
         age: 27,
